@@ -1,17 +1,6 @@
 # In A Timely Manor
 COMP 376 Team Project
 
-# Team
-
-Green Hill Gang (Team 2)
-
-* Weiliang Xie 		- 40100745 - Sprite Designer, Quality Management, Scheduler
-* Giuseppe Campanelli - 40043909 - Source Control Expert, Level Programmer
-* Bojan Srbinoski 	- 40058428 - Level/Puzzle Designer, Technical Writer
-* Jared Cohen 		- 40092599 - Audio/SFX Engineer
-* Zahra Nikbakht 		- 40138253 - Cinematic Designer, Writer, Level Programmer
-* Zi Li Wang 			- 40018308 - Art Designer + Implementation
-
 # Game Demo
 https://youtu.be/E6y3eRIf1-o
 
